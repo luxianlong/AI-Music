@@ -1,6 +1,6 @@
 # AI-Generated Reading Music Collection 🎧📖
 
-I created this repository because I hate having to subscribe to music cloud services just to listen to some simple, pure music.
+I created this repository because I hate having to subscribe to music cloud services just to listen to some simple, pure music. I usually download these music to play on VLC locally.
 
 ## 🤖 AI Generation Disclosure
 
