@@ -1,7 +1,6 @@
 # AI-Generated Reading Music Collection 🎧📖
 
-Welcome to the AI-Generated Reading Music Collection! 
-
+I created this repository because I hate having to subscribe to music cloud services just to listen to some simple, pure music.
 
 ## 🤖 AI Generation Disclosure
 
